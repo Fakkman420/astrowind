@@ -1,6 +1,6 @@
 site:
   name: Panel
-  site: 'https://panel-plum.vercel.app/'
+  site: ' https://panel-plum.vercel.app/'
   base: '/'
   trailingSlash: false
 
