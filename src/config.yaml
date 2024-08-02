@@ -44,19 +44,19 @@ apps:
 
     list:
       isEnabled: true
-      pathname: 'blog' # Blog main path, you can change this to "articles" (/articles)
+      pathname: 'articles' # Blog main path, you can change this to "articles" (/articles)
       robots:
         index: true
 
     category:
       isEnabled: true
-      pathname: 'group' # Category main path /category/some-category, you can change this to "group" (/group/some-category)
+      pathname: 'group/admin' # Category main path /category/some-category, you can change this to "group" (/group/some-category)
       robots:
         index: true
 
     tag:
       isEnabled: true
-      pathname: 'topics' # Tag main path /tag/some-tag, you can change this to "topics" (/topics/some-category)
+      pathname: 'topics/Leltar' # Tag main path /tag/some-tag, you can change this to "topics" (/topics/some-category)
       robots:
         index: false
 
