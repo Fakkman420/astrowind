@@ -1,6 +1,6 @@
 site:
   name: Panel
-  site: 'https://vercel.com/jocoo420s-projects/panel/4NC8A1VPvjRFH3qCwcud7AfvRE9s'
+  site: 'https://panel-plum.vercel.app/'
   base: '/'
   trailingSlash: false
 
